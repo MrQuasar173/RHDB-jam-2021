@@ -35,5 +35,8 @@
 *.vscode
 
 #build directories
-builddir
-build
+builddir/
+build/
+
+# Meson wrap stuff
+subprojects/*/
